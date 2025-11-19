@@ -1,7 +1,7 @@
 .Hero{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(#08003ab3, #08003ab3), url(edusity_assets/hero.png);
+    background: linear-gradient(#08003ab3, #08003ab3), url(/edusity_assets/hero.png);
     background-size: cover;
     background-position: center;
     color: #fff;
